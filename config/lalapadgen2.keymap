@@ -41,7 +41,7 @@
 
         COMBO_WIN {
             bindings = <&kp LEFT_WIN>;
-            key-positions = <3 2>;
+            key-positions = <34 35>;
         };
     };
 
