@@ -56,7 +56,7 @@
 &mt LEFT_SHIFT Z  &mt LALT X  &kp C         &kp V               &kp B                                     &kp N             &kp M             &kp COMMA          &mt LALT PERIOD   &mt LSHFT SLASH
 &kp ESCAPE        &kp TAB     &kp LEFT_WIN  &lt 3 INT_MUHENKAN  &lt 2 DEL       &lt 1 SPACE  &lt 1 ENTER  &lt 2 BACKSPACE   &lt 3 INT_HENKAN  &kp LS(INT_RO)     &kp LEFT_BRACKET  &kp LEFT_ALT
                   &kp LCTRL   &kp RIGHT     &kp DOWN            &kp LEFT        &kp UP       &kp LG(TAB)  &kp LG(LC(LEFT))  &kp LA(F4)        &kp LG(LC(RIGHT))  &kp LCTRL
-&mkp LCLK         &mkp RCLK   &mkp MCLK                                                                                                       &mkp LCLK          &mkp RCLK         &mkp MCLK
+&kp TAB           &mkp RCLK   &mkp MCLK                                                                                                       &mkp LCLK          &mkp RCLK         &mkp MCLK
 &mkp MB4          &mkp MB5    &kp LG(TAB)   &kp LG(D)           &kp LCTRL                                 &mkp MB4          &mkp MB5          &kp LG(TAB)        &kp LG(D)         &kp LCTRL
             >;
         };
