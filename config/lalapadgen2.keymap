@@ -49,7 +49,7 @@
         downloadfolder: downloadfolder {
             compatible = "zmk,behavior-macro";
             #binding-cells = <0>;
-            bindings = <&kt LG(R) &kp S &kp H &kp E &kp L &kp L &kp COLON &kp LS(D) &kp O &kp W &kp N &kp L &kp O &kp A &kp D &kp S &kp ENTER>;
+            bindings = <&kt LG(R) &kp S &kp H &kp E &kp L &kp L &kp SQT &kp LS(D) &kp O &kp W &kp N &kp L &kp O &kp A &kp D &kp S &kp ENTER>;
             label = "DOWNLOADFOLDER";
         };
 
