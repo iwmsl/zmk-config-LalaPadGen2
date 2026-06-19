@@ -39,9 +39,9 @@
             key-positions = <33 34>;
         };
 
-        COMBO_WIN {
-            bindings = <&kp LEFT_WIN>;
-            key-positions = <34 35>;
+        COMBO_alt {
+            bindings = <&kp LEFT_ALT>;
+            key-positions = <16 15>;
         };
     };
 
