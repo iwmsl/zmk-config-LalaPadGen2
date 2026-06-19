@@ -49,14 +49,22 @@
         downloadfolder: downloadfolder {
             compatible = "zmk,behavior-macro";
             #binding-cells = <0>;
-            bindings = <&kt LG(R) &kp S &kp H &kp E &kp L &kp L &kp SQT &kp LS(D) &kp O &kp W &kp N &kp L &kp O &kp A &kp D &kp S &kp ENTER>;
+            bindings =
+                <&kt LG(R)>,
+                <&macro_wait_time 500>,
+                <&kp S &kp H &kp E &kp L &kp L &kp SQT &kp LS(D) &kp O &kp W &kp N &kp L &kp O &kp A &kp D &kp S &kp ENTER>;
+
             label = "DOWNLOADFOLDER";
         };
 
         onedrive: onedrive {
             compatible = "zmk,behavior-macro";
             #binding-cells = <0>;
-            bindings = <&kp LG(R) &kp PRCNT &kp LS(O) &kp N &kp E &kp LS(D) &kp R &kp I &kp V &kp E &kp LS(C) &kp O &kp M &kp M &kp E &kp R &kp C &kp I &kp A &kp L &kp PRCNT &kp ENTER>;
+            bindings =
+                <&kp LG(R)>,
+                <&macro_wait_time 500>,
+                <&kp PRCNT &kp LS(O) &kp N &kp E &kp LS(D) &kp R &kp I &kp V &kp E &kp LS(C) &kp O &kp M &kp M &kp E &kp R &kp C &kp I &kp A &kp L &kp PRCNT &kp ENTER>;
+
             label = "ONEDRIVE";
         };
     };
