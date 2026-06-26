@@ -97,7 +97,7 @@
 &kp HOME          &kp END            &kp LA(LEFT_ARROW)  &kp LA(RIGHT)  &kp LS(F6)                        &kp NUMBER_1      &kp NUMBER_2       &kp NUMBER_3  &kp LS(MINUS)  &trans
 &kp LC(KP_MINUS)  &kp LC(KP_PLUS)    &trans              &kp LC(Z)      &kp LC(Y)         &trans  &trans  &kp COMMA         &kp N0             &kp PERIOD    &trans         &trans
                   &trans             &kp LS(LA(RIGHT))   &trans         &kp LS(LA(LEFT))  &trans  &trans  &trans            &trans             &trans        &kp PERIOD
-&trans            &trans             &trans                                                                                                    &trans        &trans         &trans
+&trans            &trans             &trans                                                                                                    &kp COMMA     &trans         &trans
 &kp LC(LG(LEFT))  &kp LC(LG(RIGHT))  &trans              &trans         &trans                            &kp LC(LG(LEFT))  &kp LC(LG(RIGHT))  &trans        &trans         &trans
             >;
         };
